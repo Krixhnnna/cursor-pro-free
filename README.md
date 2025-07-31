@@ -1,6 +1,6 @@
 # Cursor Pro Free Premium
 
-This is an enhancement tool for the Cursor editor. It can not only clean Cursor's data files, but also reset the machine code and break the Claude 3.7 Sonnet limit. (If you have any questions, feel free to leave me a message)
+This is an enhancement tool for the Cursor editor. It can not only clean Cursor's data files, but also reset the machine code and break the Claude 3.7 Sonnet limit. (If you have any questions, feel free to leave me a message
 
 ## Main Features
 
